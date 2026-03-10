@@ -1,7 +1,7 @@
 # Dashboard
 
 ### Admin Panel Unique addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS_Admin_Panel_Unique/) | [FAQ](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Admin-Panel-Unique/) | [FAQ](https://community.puqcloud.com/)
 
 The Dashboard is the home page of the module, available at: **Addons** > **PUQ Admin Panel Unique** > **Dashboard**
 
