@@ -1,7 +1,7 @@
 # Description
 
 ### Admin Panel Unique addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Documentation](https://doc.puq.info/books/admin-panel-unique-whmcs-addon) | [FAQ](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Documentation](https://doc.puq.info/books/puq-admin-panel-unique) | [FAQ](https://community.puqcloud.com/)
 
 ## PUQ Admin Panel Unique — WHMCS Addon
 
@@ -41,6 +41,6 @@ It includes a modern dashboard, one-click theme presets, manual color controls, 
 ## Links
 
 - **Product page:** [https://puqcloud.com/](https://puqcloud.com/)
-- **Documentation:** [https://doc.puq.info/books/admin-panel-unique-whmcs-addon](https://doc.puq.info/books/admin-panel-unique-whmcs-addon)
+- **Documentation:** [https://doc.puq.info/books/puq-admin-panel-unique](https://doc.puq.info/books/puq-admin-panel-unique)
 - **Support:** [https://puqcloud.com/submitticket.php?step=2&deptid=1](https://puqcloud.com/submitticket.php?step=2&deptid=1)
 - **Community:** [https://community.puqcloud.com/](https://community.puqcloud.com/)

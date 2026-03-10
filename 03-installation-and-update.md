@@ -1,7 +1,7 @@
 # Installation and Update
 
 ### Admin Panel Unique addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Documentation](https://doc.puq.info/books/admin-panel-unique-whmcs-addon) | [FAQ](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Documentation](https://doc.puq.info/books/puq-admin-panel-unique) | [FAQ](https://community.puqcloud.com/)
 
 ## System Requirements
 
@@ -18,7 +18,7 @@
 The module can be ordered and downloaded from PUQ Cloud:
 
 - **Order / Download:** [https://puqcloud.com/store/whmcs-addon-modules](https://puqcloud.com/store/whmcs-addon-modules)
-- **Documentation:** [https://doc.puq.info/books/admin-panel-unique-whmcs-addon](https://doc.puq.info/books/admin-panel-unique-whmcs-addon)
+- **Documentation:** [https://doc.puq.info/books/puq-admin-panel-unique](https://doc.puq.info/books/puq-admin-panel-unique)
 - **FAQ / Community:** [https://community.puqcloud.com/](https://community.puqcloud.com/)
 - **Direct download links:**
 
