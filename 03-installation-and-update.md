@@ -25,16 +25,16 @@ The module can be ordered and downloaded from PUQ Cloud:
 PHP 8.1:
 
 ```bash
-wget https://download.puqcloud.com/WHMCS/addons/puq_admin_panel_unique/php81/puq_admin_panel_unique-latest.zip
+wget https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS_Admin_Panel_Unique/php81/puq_admin_panel_unique-latest.zip
 ```
 
 PHP 8.2+:
 
 ```bash
-wget https://download.puqcloud.com/WHMCS/addons/puq_admin_panel_unique/php82/puq_admin_panel_unique-latest.zip
+wget https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS_Admin_Panel_Unique/php82/puq_admin_panel_unique-latest.zip
 ```
 
-> All versions are available at: [https://download.puqcloud.com/WHMCS/addons/puq_admin_panel_unique/](https://download.puqcloud.com/WHMCS/addons/puq_admin_panel_unique/)
+> All versions are available at: [https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS_Admin_Panel_Unique/](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS_Admin_Panel_Unique/)
 
 After downloading, extract the archive:
 
