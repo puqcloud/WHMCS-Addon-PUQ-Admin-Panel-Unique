@@ -1,7 +1,7 @@
 # Changelog
 
 ### Admin Panel Unique addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Documentation](https://doc.puq.info/books/puq-admin-panel-unique) | [FAQ](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Admin-Panel-Unique/) | [FAQ](https://community.puqcloud.com/)
 
 ## v1.0 — 2026-03-10
 
