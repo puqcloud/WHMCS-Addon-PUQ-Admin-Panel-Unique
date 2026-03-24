@@ -41,6 +41,6 @@ It includes a modern dashboard, one-click theme presets, manual color controls, 
 ## Links
 
 - **Product page:** [https://puqcloud.com/](https://puqcloud.com/)
-- **Documentation:** [https://doc.puq.info/books/puq-admin-panel-unique](https://doc.puq.info/books/puq-admin-panel-unique)
+- **Documentation:** [https://doc.puq.info/books/admin-panel-unique-whmcs-addon](https://doc.puq.info/books/admin-panel-unique-whmcs-addon)
 - **Support:** [https://puqcloud.com/submitticket.php?step=2&deptid=1](https://puqcloud.com/submitticket.php?step=2&deptid=1)
 - **Community:** [https://community.puqcloud.com/](https://community.puqcloud.com/)
